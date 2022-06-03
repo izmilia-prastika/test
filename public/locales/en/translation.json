@@ -1,0 +1,28 @@
+{
+  "title": "Willkommen zu react und react-i18next",
+  "navigation": {
+    "dashboard": "Marketplace",
+    "allAsset": "Seluruh Aset",
+    "allCollection": "Seluruh Koleksi",
+    "activities": "Aktivitas",
+    "faq": "FAQ",
+    "article": "Artikel",
+    "login": "Masuk",
+    "createAsset": "Buat Aset"
+  },
+  "marketplace": {
+    "createNft": {
+      "title": " Buat Aset Digitalmu",
+      "upload": "Unggah File",
+      "name": "Nama",
+      "description": "Deskripsi",
+      "category": "Kategori",
+      "collection": "Koleksi",
+      "listing": "Aktifkan Penjualan",
+      "price": "Harga",
+      "duration": "Batas waktu lelang",
+      "save": "Upload ke Blokchain",
+      "isListed": "Aktifkan Penjualan?"
+    }
+  }
+}
